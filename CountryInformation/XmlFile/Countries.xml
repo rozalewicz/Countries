@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Countries>
+  <Country>
+    <Name>Polska</Name> 
+    <Capital>Warszawa</Capital>
+    <NumberOfCitizens>38000000</NumberOfCitizens>
+  </Country>
+  <Country>
+    <Name>Niemcy</Name>
+    <Capital>Berlin</Capital>
+    <NumberOfCitizens>83000000</NumberOfCitizens>
+  </Country>
+  <Country>
+    <Name>Rosja</Name>
+    <Capital>Moskwa</Capital>
+    <NumberOfCitizens>144000000</NumberOfCitizens>
+  </Country>
+</Countries>
